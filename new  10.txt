@@ -1,5 +1,18 @@
 Test git commands...sample
 
+slice": [
+      {
+        "origin": "BOS",
+        "destination": "LAX",
+        "date": "YYYY-MM-DD"
+      },
+      {
+        "origin": "LAX",
+        "destination": "BOS",
+        "date": "YYYY-MM-DD"
+      }
+    ]
+
 {
   "request": {
     "passengers": {
